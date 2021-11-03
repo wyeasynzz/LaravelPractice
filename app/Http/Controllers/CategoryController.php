@@ -8,5 +8,7 @@ class CategoryController extends Controller
 {
     public function Category(){
         return View('Category');
+   
+   
     }
 }
